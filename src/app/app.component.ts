@@ -8,7 +8,7 @@ import Swal from 'sweetalert2'
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit{
-  title = 'practica4';
+  title = 'practica3';
 
   constructor(){}
 
@@ -17,7 +17,7 @@ export class AppComponent implements OnInit{
 
   mensaje(): void {
     Swal.fire({
-      title: 'HOLA AUX MARIO DE SA, COMO ESTAS? \n ESTA ES MI PRACTICA 3 \n SOY CARLOS TORRES - 201504240',
+      title: 'HOLA AUX MARIO xD \n ESTA ES MI PRACTICA 3 \n SOY CARLOS TORRES - 201504240',
       width: 600,
       padding: '3em',
       background: '#fff url(../assets/media/trees.png)',
