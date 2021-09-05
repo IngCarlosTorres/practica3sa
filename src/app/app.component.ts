@@ -8,7 +8,7 @@ import Swal from 'sweetalert2'
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit{
-  title = 'practica3';
+  title = 'practica4';
 
   constructor(){}
 
